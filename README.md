@@ -1,2 +1,4 @@
 # Exercícios de Algoritmo
- Tarefas de todo curso de alogritmo do CursoEmVideo
+---
+### Todos exercícios do Curso de algoritmo do __CursoEmVideo__
+_Feito por Wescley Silva_
